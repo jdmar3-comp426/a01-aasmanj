@@ -50,3 +50,7 @@ body {
   a.mythlist:hover {
     color: darkmagenta;
   }
+
+  ul {
+    background-color: dimgray;
+  }
