@@ -58,3 +58,7 @@ body {
   #unlist {
     background-color: lightblue;
   }
+
+  h2 + h3 {
+    color: grey;
+  }
