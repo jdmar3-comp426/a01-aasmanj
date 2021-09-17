@@ -78,3 +78,7 @@ body {
   span {
     color: red;
   }
+
+  img.volcano {
+    width: 99%;
+  }
