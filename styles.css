@@ -42,7 +42,11 @@ body {
     border-color: #000000
   }
 
-  id.romanfacts {
+  #romanfacts {
     font-family: 'Times New Roman', Times, serif;
     font-size: small;
+  }
+
+  a.mythlist:hover {
+    color: darkmagenta;
   }
