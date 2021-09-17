@@ -24,3 +24,25 @@ body {
   div.roman {
       font-family: 'Times New Roman', Times, serif;
   }
+
+  div.greektitle {
+    border-radius: 1px;
+  }
+
+  div.greektext {
+    background-color: #D3D3D3;
+  }
+
+  div.romantitle {
+    background-color: #8b0000;
+  }
+
+  div.romantext {
+    border-radius: 2px;
+    border-color: #000000
+  }
+
+  id.romanfacts {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+  }
