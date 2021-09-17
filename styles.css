@@ -66,3 +66,15 @@ body {
   a:first-child {
     color: brown;
   }
+
+  div#test span {
+    color: green;
+  }
+
+  div span {
+    color: blue;
+  }
+
+  span {
+    color: red;
+  }
